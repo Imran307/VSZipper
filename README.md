@@ -1,6 +1,8 @@
 # VSZipper
 This Appliaction zips up visual studio projects and solutions without unnecessary files/folders like bin and obj folders
 
+## Installation instruction
+There isn't a way to install it yet
 ## Roadmap:
 These are the things I want to accomplish
  - Zip up directory and sub-directories
